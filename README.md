@@ -1,10 +1,6 @@
 # Tellos Hx2 hybrid monitoring and remoting
 > This software aims to remotely monitor and operate Tellos Hx2 Hybrids.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Developed in Python this software uses the GPIO of the hybrids in conjunction with an arduino Mega to monitor which hybrids are used and also allows to disconnect the hybrids remotely (activity that was previously done in the cold room).
 
 This software provides:
